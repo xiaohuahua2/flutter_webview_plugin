@@ -11,7 +11,7 @@ version: 0.3.0+2
 maintainer: Simon Lightfoot (@slightfoot)
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.0.0 <3.1.0"
 
 flutter:
   plugin:
